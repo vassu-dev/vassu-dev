@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building AI agents, LLM-powered applications, and scalable backend systems using FastAPI and modern AI frameworks<br><br>👯 I’m looking to collaborate on<br>AI/ML projects, multi-agent systems, and real-world problem-solving applications<br><br>🤝 I’m looking for help with<br>Advanced LLM fine-tuning, research-based AI systems, and scalable AI architecture<br><br>🌱 I’m currently learning<br>Deep Learning, advanced AI agent design, and intelligent autonomous systems<br><br>💬 Ask me about<br>Python, Java, AI Agents, LLMs, FastAPI, and backend development<br><br>⚡ Fun fact<br>I enjoy building AI systems that can think, adapt, and interact like humans 🚀
+🔭 I’m currently working on<br>Building AI agents, LLM-powered applications, and scalable backend systems using FastAPI and modern AI frameworks<br><br>👯 I’m looking to collaborate on<br>AI/ML projects, multi-agent systems, and real-world problem-solving applications<br><br>🤝 I’m currently learning<br>Deep Learning, advanced AI agent design, and intelligent autonomous systems<br><br>💬 Ask me about<br>Python, Java, AI Agents, LLMs, FastAPI, and backend development<br><br>⚡ Fun fact<br>I enjoy building AI systems that can think, adapt, and interact like humans 🚀
 
 
 ## 🌐 Socials:
